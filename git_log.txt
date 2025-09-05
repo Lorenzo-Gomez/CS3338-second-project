@@ -1,0 +1,38 @@
+commit 8b5774c836a53f2ef4051b328332839c8dc26673
+Author: Lorenzo-Gomez <Lvgomez41405.lg@gmail.com>
+Date:   Thu Sep 4 16:54:50 2025 -0700
+
+    Added my favorite game LEAGUE OF LEGENDS
+
+commit 61553ef6dc35de2060e66aa7798b0c4f19666e24
+Author: Lorenzo-Gomez <Lvgomez41405.lg@gmail.com>
+Date:   Thu Sep 4 16:45:12 2025 -0700
+
+    Added level on LOL, and favorite food div in main branch
+
+commit faf0f3a4e4fca65bf45020283b2bf92ad1952b31
+Author: Lorenzo-Gomez <Lvgomez41405.lg@gmail.com>
+Date:   Thu Sep 4 16:33:20 2025 -0700
+
+    Committing my README
+
+commit 1cee0ecf909fe2ca891fa668e9ba0c9d83a304d2
+Merge: 1d2bfc0 156b9d1
+Author: Lorenzo-Gomez <150641815+Lorenzo-Gomez@users.noreply.github.com>
+Date:   Thu Sep 4 14:45:02 2025 -0700
+
+    Merge pull request #1 from Lorenzo-Gomez/info-fill
+    
+    Completed assignment updates in the info-fill branch
+
+commit 156b9d111f5b4bd10c41fdcad150e4311fdd1376
+Author: Lorenzo-Gomez <Lvgomez41405.lg@gmail.com>
+Date:   Thu Sep 4 14:28:16 2025 -0700
+
+    Completed assignment updates in the info-fill branch
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
